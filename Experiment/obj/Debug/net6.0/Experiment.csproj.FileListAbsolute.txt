@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\bin\Debug\net6.0\Experiment.exe
+D:\GeekBrains\Experiment\bin\Debug\net6.0\Experiment.deps.json
+D:\GeekBrains\Experiment\bin\Debug\net6.0\Experiment.runtimeconfig.json
+D:\GeekBrains\Experiment\bin\Debug\net6.0\Experiment.dll
+D:\GeekBrains\Experiment\bin\Debug\net6.0\Experiment.pdb
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.AssemblyInfo.cs
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.dll
+D:\GeekBrains\Experiment\obj\Debug\net6.0\refint\Experiment.dll
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.pdb
+D:\GeekBrains\Experiment\obj\Debug\net6.0\Experiment.genruntimeconfig.cache
+D:\GeekBrains\Experiment\obj\Debug\net6.0\ref\Experiment.dll
