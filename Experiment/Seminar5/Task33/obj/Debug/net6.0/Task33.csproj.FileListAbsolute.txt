@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Seminar5\Task33\bin\Debug\net6.0\Task33.exe
+D:\GeekBrains\Experiment\Seminar5\Task33\bin\Debug\net6.0\Task33.deps.json
+D:\GeekBrains\Experiment\Seminar5\Task33\bin\Debug\net6.0\Task33.runtimeconfig.json
+D:\GeekBrains\Experiment\Seminar5\Task33\bin\Debug\net6.0\Task33.dll
+D:\GeekBrains\Experiment\Seminar5\Task33\bin\Debug\net6.0\Task33.pdb
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.dll
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\refint\Task33.dll
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.pdb
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\Task33.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Seminar5\Task33\obj\Debug\net6.0\ref\Task33.dll
