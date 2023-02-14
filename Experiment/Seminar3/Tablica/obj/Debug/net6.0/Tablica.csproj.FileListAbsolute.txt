@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Seminar3\Tablica\bin\Debug\net6.0\Tablica.exe
+D:\GeekBrains\Experiment\Seminar3\Tablica\bin\Debug\net6.0\Tablica.deps.json
+D:\GeekBrains\Experiment\Seminar3\Tablica\bin\Debug\net6.0\Tablica.runtimeconfig.json
+D:\GeekBrains\Experiment\Seminar3\Tablica\bin\Debug\net6.0\Tablica.dll
+D:\GeekBrains\Experiment\Seminar3\Tablica\bin\Debug\net6.0\Tablica.pdb
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.dll
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\refint\Tablica.dll
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.pdb
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\Tablica.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Seminar3\Tablica\obj\Debug\net6.0\ref\Tablica.dll
