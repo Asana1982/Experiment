@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\bin\Debug\net6.0\MassivMinMax.exe
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\bin\Debug\net6.0\MassivMinMax.deps.json
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\bin\Debug\net6.0\MassivMinMax.runtimeconfig.json
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\bin\Debug\net6.0\MassivMinMax.dll
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\bin\Debug\net6.0\MassivMinMax.pdb
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.dll
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\refint\MassivMinMax.dll
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.pdb
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\MassivMinMax.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Seminar3\MassivMinMax\obj\Debug\net6.0\ref\MassivMinMax.dll
