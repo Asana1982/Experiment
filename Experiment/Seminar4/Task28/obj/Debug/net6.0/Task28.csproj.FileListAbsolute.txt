@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Seminar4\Task28\bin\Debug\net6.0\Task28.exe
+D:\GeekBrains\Experiment\Seminar4\Task28\bin\Debug\net6.0\Task28.deps.json
+D:\GeekBrains\Experiment\Seminar4\Task28\bin\Debug\net6.0\Task28.runtimeconfig.json
+D:\GeekBrains\Experiment\Seminar4\Task28\bin\Debug\net6.0\Task28.dll
+D:\GeekBrains\Experiment\Seminar4\Task28\bin\Debug\net6.0\Task28.pdb
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.dll
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\refint\Task28.dll
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.pdb
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Seminar4\Task28\obj\Debug\net6.0\ref\Task28.dll
