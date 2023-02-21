@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\bin\Debug\net6.0\Rekurcia.exe
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\bin\Debug\net6.0\Rekurcia.deps.json
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\bin\Debug\net6.0\Rekurcia.runtimeconfig.json
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\bin\Debug\net6.0\Rekurcia.dll
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\bin\Debug\net6.0\Rekurcia.pdb
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.dll
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\refint\Rekurcia.dll
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.pdb
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\Rekurcia.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Lesson5\Rekurcia\obj\Debug\net6.0\ref\Rekurcia.dll
