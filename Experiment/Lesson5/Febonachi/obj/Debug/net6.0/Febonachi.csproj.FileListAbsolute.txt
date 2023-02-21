@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Lesson5\Febonachi\bin\Debug\net6.0\Febonachi.exe
+D:\GeekBrains\Experiment\Lesson5\Febonachi\bin\Debug\net6.0\Febonachi.deps.json
+D:\GeekBrains\Experiment\Lesson5\Febonachi\bin\Debug\net6.0\Febonachi.runtimeconfig.json
+D:\GeekBrains\Experiment\Lesson5\Febonachi\bin\Debug\net6.0\Febonachi.dll
+D:\GeekBrains\Experiment\Lesson5\Febonachi\bin\Debug\net6.0\Febonachi.pdb
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.dll
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\refint\Febonachi.dll
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.pdb
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\Febonachi.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Lesson5\Febonachi\obj\Debug\net6.0\ref\Febonachi.dll
