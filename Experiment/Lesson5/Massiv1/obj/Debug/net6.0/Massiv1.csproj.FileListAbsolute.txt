@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Lesson5\Massiv1\bin\Debug\net6.0\Massiv1.exe
+D:\GeekBrains\Experiment\Lesson5\Massiv1\bin\Debug\net6.0\Massiv1.deps.json
+D:\GeekBrains\Experiment\Lesson5\Massiv1\bin\Debug\net6.0\Massiv1.runtimeconfig.json
+D:\GeekBrains\Experiment\Lesson5\Massiv1\bin\Debug\net6.0\Massiv1.dll
+D:\GeekBrains\Experiment\Lesson5\Massiv1\bin\Debug\net6.0\Massiv1.pdb
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.dll
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\refint\Massiv1.dll
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.pdb
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\Massiv1.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Lesson5\Massiv1\obj\Debug\net6.0\ref\Massiv1.dll
