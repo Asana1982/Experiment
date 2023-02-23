@@ -1,0 +1,15 @@
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\bin\Debug\net6.0\Zadacha45.exe
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\bin\Debug\net6.0\Zadacha45.deps.json
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\bin\Debug\net6.0\Zadacha45.runtimeconfig.json
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\bin\Debug\net6.0\Zadacha45.dll
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\bin\Debug\net6.0\Zadacha45.pdb
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.csproj.AssemblyReference.cache
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.AssemblyInfoInputs.cache
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.AssemblyInfo.cs
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.dll
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\refint\Zadacha45.dll
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.pdb
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\Zadacha45.genruntimeconfig.cache
+D:\GeekBrains\Experiment\Seminar6\Zadacha45\obj\Debug\net6.0\ref\Zadacha45.dll
